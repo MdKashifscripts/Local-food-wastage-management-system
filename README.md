@@ -147,10 +147,10 @@ Performed 15+ analytical queries:
 👉 [SQL PROJECT ANALYSIS ANSWERS.pdf](https://github.com/user-attachments/files/26925447/SQL.PROJECT.ANALYSIS.ANSWERS.pdf)
 
 ### 🗄️ Dashboard Screenshort's(Streamlit)
-👉<img width="1896" height="923" alt="Screenshot 2026-04-21 140028" src="https://github.com/user-attachments/assets/d40a9cc5-5748-4044-b5b7-cc4586066064" />
+👉<img width="1901" height="916" alt="Screenshot 2026-04-21 135931" src="https://github.com/user-attachments/assets/3f87bedc-e3e6-4ee7-8a51-9152b578fb0b" />
+<img width="1896" height="923" alt="Screenshot 2026-04-21 140028" src="https://github.com/user-attachments/assets/d40a9cc5-5748-4044-b5b7-cc4586066064" />
 <img width="1902" height="912" alt="Screenshot 2026-04-21 140019" src="https://github.com/user-attachments/assets/079b6a2c-0f6a-417a-9081-cf4a7f490984" />
 <img width="1901" height="917" alt="Screenshot 2026-04-21 135953" src="https://github.com/user-attachments/assets/f186f61c-64da-4343-9de9-36dd7bd22ed2" />
-<img width="1901" height="916" alt="Screenshot 2026-04-21 135931" src="https://github.com/user-attachments/assets/3f87bedc-e3e6-4ee7-8a51-9152b578fb0b" />
 
 ---
 
